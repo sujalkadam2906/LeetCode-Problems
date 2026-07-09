@@ -1,18 +1,19 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if (x < 0){  // Negative numbers are not palindrome
-            return false;
-        }
-        int reverse = 0;
-        int xcopy = x; // store original number
+         String s = Integer.toString(x);
 
-          // build reverse number digit by digit
+        int left = 0;
+        int right = s.length() - 1;
 
-        while (x > 0){
-            reverse = (reverse * 10) + (x % 10);  // get last digit and append digit
-            x = x / 10;  //remove last digit
+        while(left < right){
+
+            if(s.charAt(left) != s.charAt(right))
+                return false;
+
+            left++;
+            right--;
         }
-        // compare reversed number with original
-        return reverse == xcopy;
+
+        return true;
     }
 }
