@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
