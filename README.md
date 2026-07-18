@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
