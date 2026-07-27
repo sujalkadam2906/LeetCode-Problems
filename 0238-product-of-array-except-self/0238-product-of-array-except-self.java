@@ -21,24 +21,22 @@ class Solution {
     //     return ans;
     // }
 
-    int[] ans = new int[nums.length];
-    Arrays.fill(ans, 1);
+    int n = nums.length;
+    int[] ans = new int[n];
 
     int pre = 1;
-    int suf = 1;
-
-        // Prefix products
-    for (int i = 0; i < nums.length; i++) {
+    for (int i = 0; i < n; i++) {
         ans[i] = pre;
         pre *= nums[i];
     }
 
-        // Suffix products
-    for (int i = nums.length - 1; i >= 0; i--) {
+    int suf = 1;
+    for (int i = n - 1; i >= 0; i--) {
         ans[i] *= suf;
         suf *= nums[i];
     }
 
-        return ans;
+    return ans;
     }
+    
 }
