@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0001-two-sum) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
