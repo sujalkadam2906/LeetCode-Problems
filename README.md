@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0704-binary-search) |
