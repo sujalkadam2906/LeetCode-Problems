@@ -8,30 +8,40 @@ class Solution {
 
             int mid = left + (right - left) / 2;
 
-            // Target mil gaya
+            // Target found
             if (nums[mid] == target)
                 return mid;
 
-            // Left half sorted hai
+            // Check which half is sorted
             if (nums[left] <= nums[mid]) {
 
+                // Left half is sorted.
+
+                // If the target lies inside the sorted left half,
+                // discard the right half and search on the left.
                 if (target >= nums[left] && target < nums[mid])
                     right = mid - 1;
+
+                // Otherwise, search in the right half.
                 else
                     left = mid + 1;
 
-            }
-            // Right half sorted hai
-            else {
+            } else {
 
+                // Right half is sorted.
+
+                // If the target lies inside the sorted right half,
+                // discard the left half and search on the right.
                 if (target > nums[mid] && target <= nums[right])
                     left = mid + 1;
+
+                // Otherwise, search in the left half.
                 else
                     right = mid - 1;
-
             }
         }
 
+        // Target not found
         return -1;
     }
 }
