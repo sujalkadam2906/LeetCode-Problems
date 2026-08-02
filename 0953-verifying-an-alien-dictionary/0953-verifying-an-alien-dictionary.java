@@ -2,16 +2,15 @@ class Solution {
     public boolean isAlienSorted(String[] words, String order) {
 
         // Stores the rank of every alien character
-        int[] rank = new int[26];
+        HashMap<Character, Integer> map = new HashMap<>();
 
-        // Build the mapping
+        // Build the alien dictionary
         // Example:
         // h -> 0
         // l -> 1
         // a -> 2
-    
         for (int i = 0; i < order.length(); i++) {
-            rank[order.charAt(i) - 'a'] = i;
+            map.put(order.charAt(i), i);
         }
 
         // Compare every adjacent pair of words
@@ -22,31 +21,32 @@ class Solution {
 
             int j = 0;
 
-            // Compare character by character
+            // Compare characters one by one
             while (j < first.length() && j < second.length()) {
 
                 char c1 = first.charAt(j);
                 char c2 = second.charAt(j);
 
-                // Characters are different
+                // If characters are different,
+                // compare their alien ranks
                 if (c1 != c2) {
 
-                    // If first character comes after second
-                    // in alien order, words are not sorted
-                    if (rank[c1 - 'a'] > rank[c2 - 'a'])
+                    // Wrong order
+                    if (map.get(c1) > map.get(c2))
                         return false;
 
-                    // Correct order
+                    // Correct order, no need to compare further
                     break;
                 }
 
                 j++;
             }
 
-            // Prefix case
+            // Prefix Case
             // Example:
             // "apple"
             // "app"
+            // Invalid because longer word comes first
             if (j == second.length() && first.length() > second.length())
                 return false;
         }
