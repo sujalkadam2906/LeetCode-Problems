@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0953-verifying-an-alien-dictionary](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0953-verifying-an-alien-dictionary](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0953-verifying-an-alien-dictionary](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Dynamic Programming
 |  |
