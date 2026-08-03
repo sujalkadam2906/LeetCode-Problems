@@ -9,7 +9,7 @@ class Solution {
     }
 
     // Finds the first occurrence of the target
-    private int findFirst(int[] nums, int target) {
+    int findFirst(int[] nums, int target) {
 
         int left = 0;
         int right = nums.length - 1;
@@ -40,7 +40,7 @@ class Solution {
     }
 
     // Finds the last occurrence of the target
-    private int findLast(int[] nums, int target) {
+    int findLast(int[] nums, int target) {
 
         int left = 0;
         int right = nums.length - 1;
