@@ -66,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Dynamic Programming
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
