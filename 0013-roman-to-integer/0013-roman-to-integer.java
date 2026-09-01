@@ -30,7 +30,7 @@ class Solution {
     }
 
     // Returns the integer value of a Roman character
-    private int value(char c) {
+    int value(char c) {
 
         switch (c) {
 
