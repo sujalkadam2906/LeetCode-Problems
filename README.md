@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sujalkadam2906/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
