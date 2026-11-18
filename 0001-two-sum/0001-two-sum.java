@@ -1,16 +1,27 @@
+import java.util.HashMap;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer,Integer> map = new HashMap <>();
 
-        for (int i = 0; i < nums.length; i++){
-            int diff = target - nums[i];
+        // Store number and its index
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-            if (map.containsKey(diff)){
-                return new int [] {map.get(diff),i};
+        for (int i = 0; i < nums.length; i++) {
+
+            // Find the number needed to complete the target
+            int complement = target - nums[i];
+
+            // Check if complement already exists
+            if (map.containsKey(complement)) {
+
+                // Return both indices
+                return new int[] { map.get(complement), i };
             }
-            map.put(nums[i],i);
-        }
-        return new int []{};
 
+            // Store current number and its index
+            map.put(nums[i], i);
+        }
+
+        return new int[] {};
     }
 }
